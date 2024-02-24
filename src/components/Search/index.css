@@ -1,0 +1,35 @@
+.search-bg-container {
+  background-color: #000000;
+}
+.search-container {
+  padding: 10px;
+  border: solid;
+  border-color: white;
+  border-width: 1px;
+  border-radius: 5px;
+  width: 16vw;
+  display: flex;
+  align-items: center;
+}
+.not-found-container1 {
+  text-align: center;
+}
+.not-found-paragraph {
+  color: white;
+}
+.search-button {
+  background-color: transparent;
+}
+.input-search {
+  padding: 10px;
+  border: none;
+  outline: none;
+  font-size: 12px;
+  background-color: transparent;
+  color: white;
+}
+.search-bg-container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

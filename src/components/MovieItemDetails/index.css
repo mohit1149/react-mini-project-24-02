@@ -1,0 +1,31 @@
+.details-information-container {
+  display: flex;
+  justify-content: space-around;
+}
+.rating {
+  color: #94a3b8;
+  font-family: 15px;
+  font-family: 'Roboto';
+}
+.rating-value {
+  color: #ffffff;
+  font-family: 15px;
+  font-family: 'Roboto';
+}
+.unOrder-list-genres {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.more-like-heading {
+  color: #ffffff;
+  font-family: 15px;
+  font-family: 'Roboto';
+  margin-left: 9vw;
+}
+.run-time-container {
+  display: flex;
+  align-items: center;
+}
+.adult {
+  margin-left: 10px;
+}

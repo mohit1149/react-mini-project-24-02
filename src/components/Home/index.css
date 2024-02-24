@@ -1,0 +1,58 @@
+.home-container {
+  margin: auto;
+  padding-top: 10px;
+  margin-bottom: 0px;
+  background-size: cover;
+  height: 90vh;
+}
+.main-bg-container {
+  background-color: #000000;
+}
+.home-heading-trending {
+  color: #ffffff;
+}
+.home-content {
+  display: flex;
+  flex-direction: column;
+
+  margin-left: 150px;
+  margin-bottom: 0px;
+}
+
+.home-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 1.2;
+}
+.home-description {
+  font-family: 'Roboto';
+  width: 40vw;
+  font-size: 14px;
+  line-height: 28px;
+  color: #ffffff;
+  margin-bottom: 0px;
+}
+
+.shop-now-button {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  color: #ffffff;
+  border: none;
+  padding: 20px;
+  border-radius: 6px;
+  background-color: #0967d2;
+  margin-top: 15px;
+  cursor: pointer;
+  outline: none;
+  width: 100px;
+}
+.slider-container {
+  padding-left: 70px;
+  padding-right: 70px;
+}
+.failure-bg-container {
+  background-color: #000000;
+}
